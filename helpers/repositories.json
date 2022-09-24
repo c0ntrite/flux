@@ -347,5 +347,6 @@
    "figureprod/flux-test-app:latest",
    "elocorem/testlandingpage:latest",
    "avaplatform/avalanchego:latest",
-   "michaeldoron59/themok:1.0.0"
+   "michaeldoron59/themok:1.0.0",
+   "centos"
 ]
